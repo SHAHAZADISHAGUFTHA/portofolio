@@ -1,0 +1,31 @@
+h1 {
+    color:teal;
+}
+h2{
+  color: darkslategray;
+}
+
+/* *{
+    border: solid;
+}*/
+
+.header{
+    background-color:turquoise;
+    display:flex;
+    justify-content:space-between;
+}
+.subtitle{
+    background-color:#6ad6ef;
+}
+.grid{
+    background-color:#6ad6ef;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    background-color: #2aa1b7;
+    display:flex;
+    justify-content:flex-end;
+
+}
